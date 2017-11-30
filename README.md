@@ -7,5 +7,3 @@
 * [https://github.com/jwtk/jjwt](https://github.com/jwtk/jjwt)
 * [https://github.com/oktadeveloper/okta-oidc-flows-example](https://github.com/oktadeveloper/okta-oidc-flows-example)
 * [https://github.com/oktadeveloper/okta-zork-oauth-example](https://github.com/oktadeveloper/okta-zork-oauth-example)
-* [https://github.com/dogeared/okta-web-token-resources](https://github.com/dogeared/okta-web-token-resources)
-
